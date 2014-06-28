@@ -33,9 +33,9 @@
 
 #label2 {
 	 z-index: 1;
-	 width: 64px;
-	 height: 18px;
-	 top: 160px;
+	 width: 63px;
+	 height: 20px;
+	 top: 158px;
 	 left: 61px;
 	
 	 position: absolute;
@@ -47,9 +47,9 @@
 
 #label1 {
 	 z-index: 5;
-	 width: 101px;
-	 height: 18px;
-	 top: 157px;
+	 width: 90px;
+	 height: 20px;
+	 top: 155px;
 	 left: 700px;
 	
 	 position: absolute;
